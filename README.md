@@ -5,7 +5,7 @@ A data analytics capstone project analyzing childhood anemia in Nigeria using th
 ## 📄 Deliverables
 
 - 📊 [Full Report (PDF)](Nigeria_Child_Anemia_Report-5.pdf)
-- 🖥️ [Slide Deck (PPTX)](Nigeria_Child_Anemia_Presentation.pptx)
+- 🖥️ [Slide Deck (PPTX)](Nigeria_Child_Anemia_Presentation-8.pptx)
 
 ## About This Project
 
